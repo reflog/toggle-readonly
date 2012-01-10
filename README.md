@@ -19,4 +19,4 @@ To use the command right click on the file in the side bar or in the buffer area
 
   [1]: http://www.sublimetext.com/2
   [2]: http://wbond.net/sublime_packages/package_control
-  [3]: https:///tip.zip
+  [3]: https://github.com/reflog/toggle-readonly/zipball/master
