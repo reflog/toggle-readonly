@@ -1,3 +1,14 @@
 [
-    { "command": "toggle_readonly", "caption": "Toggle Readonly", "id": "end" }
+    {
+        "caption": "-",
+        "id": "separator"
+    },
+    {
+        "caption": "Set Readonly",
+        "command": "set_readonly"
+    },
+    {
+        "caption": "Set Writable",
+        "command": "set_writable"
+    }
 ]

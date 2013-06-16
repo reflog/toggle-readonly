@@ -1,6 +1,6 @@
-#Toggle file's read-only flag in Sublime Text 2
+#Toggle file's read-only flag in Sublime Text 2/3
 
-Basic plugin for [Sublime Text 2][1] that adds a "Toggle Readonly" command to the
+Basic plugin for [Sublime Text][1] that adds a "Toggle Readonly" command to the
 context menu.
 
 ##Install
@@ -17,6 +17,6 @@ Or you can download the package as zip file [][3] then copy it into your Sublime
 To use the command right click on the file in the side bar or in the buffer area.
 
 
-  [1]: http://www.sublimetext.com/2
+  [1]: http://www.sublimetext.com/
   [2]: http://wbond.net/sublime_packages/package_control
   [3]: https://github.com/reflog/toggle-readonly/zipball/master
