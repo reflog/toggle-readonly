@@ -10,7 +10,7 @@
                         "children": [
                             {
                                 "args": {
-                                    "file": "${packages}/toggle-readonly/toggle-readonly.sublime-settings"
+                                    "file": "${packages}/Toggle Read-Only/toggle-readonly.sublime-settings"
                                 },
                                 "caption": "Settings \u2013 Default",
                                 "command": "open_file"
