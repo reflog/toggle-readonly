@@ -1,0 +1,10 @@
+[
+    {
+        "command": "set_readonly",
+        "caption": "Set File Readonly"
+    },
+    {
+        "command": "set_writable",
+        "caption": "Set File Writable"
+    }
+]
