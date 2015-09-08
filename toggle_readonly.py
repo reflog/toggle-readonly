@@ -29,7 +29,6 @@ def isReadonly(filename):
 
 class ClearChangesCommand(sublime_plugin.EventListener):
     def on_pre_save(self, view):
-        print (s.get('auto_remove_readonly_on_save')) 
         if s.get('auto_remove_readonly_on_save'): 
             if isReadonly(view.file_name()):
                 changeReadonly(view.file_name(), False)
